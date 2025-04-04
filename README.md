@@ -1,4 +1,4 @@
-# 💡 Meu Portfólio de Ciência de Dados - IA
+### 💡 Meu Portfólio de Ciência de Dados - IA
 
 Bem-vindo ao meu repositório! Aqui compartilho projetos, análises e insights na área de Ciência de Dados e Inteligência Artificial.  
 
